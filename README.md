@@ -9,11 +9,15 @@
 
 <p>I share my knowledge and expertise on <br/> my Telegram channel ZufarExplainedIT.</p>
 
-[Follow my Telegram channel ](https://t.me/zufarexplained)
+#### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyZL7CFm4cqEZpJihA2aDn8tVZbNSZSGvv1w&usqp=CAU" width="15"> [Follow my Telegram channel ](https://t.me/zufarexplained)
 
-<p>I am a mentor on ADPList platform.</p>
+<p>I run free mentoring sessions on ADPList platform.</p>
 
-[Book a new session](https://adplist.org/mentors/zufar-sunagatov)
+#### <img src="https://static.vecteezy.com/system/resources/previews/007/520/551/original/illustrations-of-mentoring-teaching-and-education-as-well-as-presentations-in-meetings-solid-icons-glyphs-silhouettes-free-vector.jpg" width="25"> [Book a new session](https://adplist.org/mentors/zufar-sunagatov)
+
+<p>I regularly write IT articles.</p>
+
+#### <img src="https://www.pngfind.com/pngs/m/92-926881_png-file-article-icon-png-transparent-png.png" width="17"> [Read articles](https://hackernoon.com/u/zufarexplained)
 
 
 
@@ -23,4 +27,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sunagatov&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
 </a>
 </p>
-
