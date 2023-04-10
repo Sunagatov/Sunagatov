@@ -7,17 +7,12 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-<p>I share my knowledge and expertise on <br/> my Telegram channel ZufarExplainedIT.</p>
-
-#### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyZL7CFm4cqEZpJihA2aDn8tVZbNSZSGvv1w&usqp=CAU" width="15"> [Follow my Telegram channel ](https://t.me/zufarexplained)
-
-<p>I run free mentoring sessions on ADPList platform.</p>
-
-#### <img src="https://static.vecteezy.com/system/resources/previews/007/520/551/original/illustrations-of-mentoring-teaching-and-education-as-well-as-presentations-in-meetings-solid-icons-glyphs-silhouettes-free-vector.jpg" width="25"> [Book a new session](https://adplist.org/mentors/zufar-sunagatov)
-
-<p>I regularly write IT articles.</p>
-
-#### <img src="https://www.pngfind.com/pngs/m/92-926881_png-file-article-icon-png-transparent-png.png" width="17"> [Read articles](https://hackernoon.com/u/zufarexplained)
+ * I share my knowledge and expertise on <br/> my Telegram channel ZufarExplainedIT
+   #### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyZL7CFm4cqEZpJihA2aDn8tVZbNSZSGvv1w&usqp=CAU" width="15"> [Follow my Telegram channel ](https://t.me/zufarexplained)
+ * I run free mentoring sessions on ADPList platform
+   #### <img  src="https://static.vecteezy.com/system/resources/previews/007/520/551/original/illustrations-of-mentoring-teaching-and-education-as-well-as-presentations-in-meetings-solid-icons-glyphs-silhouettes-free-vector.jpg" width="20"> [Book a new session](https://adplist.org/mentors/zufar-sunagatov)
+ * I regularly write IT articles</p>
+   #### <img src="https://www.pngfind.com/pngs/m/92-926881_png-file-article-icon-png-transparent-png.png" width="17"> [Read articles](https://hackernoon.com/u/zufarexplained)
 
 
 
