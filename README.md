@@ -17,7 +17,7 @@
 
 
 <p align="left">
-<a href="https://github.com/yu199195">
+<a href="https://github.com/Sunagatov">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sunagatov&layout=compact&langs_count=10&theme=buefy"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sunagatov&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
 </a>
