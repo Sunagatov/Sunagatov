@@ -13,6 +13,8 @@
    #### <img  src="https://static.vecteezy.com/system/resources/previews/007/520/551/original/illustrations-of-mentoring-teaching-and-education-as-well-as-presentations-in-meetings-solid-icons-glyphs-silhouettes-free-vector.jpg" width="20"> [Book a new session](https://adplist.org/mentors/zufar-sunagatov)
  * I regularly write IT articles</p>
    #### <img src="https://www.pngfind.com/pngs/m/92-926881_png-file-article-icon-png-transparent-png.png" width="17"> [Read articles](https://hackernoon.com/u/zufarexplained)
+ * I regularly answer questions on various IT topics</p>
+   #### <img src="https://w7.pngwing.com/pngs/651/796/png-transparent-hexagon-media-social-stackoverflow-miu-hexagon-black-social-icon.png" width="17"> [Follow my Stack Oveflow profile](https://stackoverflow.com/users/13515974/zufar-sunagatov?tab=profile)
 
 
 
