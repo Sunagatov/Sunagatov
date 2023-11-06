@@ -1,12 +1,10 @@
 <h2> Hi there, I'm Zufar Sunagatov! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" alt="coding gif">
-<p><em>Software Engineer at Lloyd's Market <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30" alt="code gif"></em></p>
-
-<p>Join my journey in tech:</p>
+<p><em>Lead Software Developer (Java / Kotlin / Golang) with experience in Backend, Highload, Microservices, Cloud. <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30" alt="code gif"></em></p>
 
 <p>
   <a href="https://github.com/Sunagatov">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Sunagatov?label=follow&style=social">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Sunagatov?label=follow&style=social" height="25">
   </a>
 </p>
 
