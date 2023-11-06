@@ -21,16 +21,16 @@
 
 <h3>🎤 I engage with the community as a speaker:</h3>
     <ul>
-      <li><a href="https://t.me/zufarexplained">Web Evolution Insights</a> - YouTube (in English)</li>
-      <li><a href="https://www.youtube.com/watch?v=SKgqIiapTxg">Who is a Java Developer?</a> - YouTube (in Russian)</li>
-      <li><a href="https://www.youtube.com/watch?v=Ib3DCX3oing">IT DevOps Podcast: Master New Age DevOps Practices</a> - YouTube (in English)</li>
-      <li><a href="https://www.youtube.com/watch?v=1oaaB1c-oiQ">Coding and System design Tech Interview with Zufar Sunagatov</a> - YouTube (in Russian)</li>
+      <li><a href="https://www.youtube.com/watch?v=K-4h--tTA7E">Web v1.0 vs Web v2.0 vs Web v3.0</a> - 1k views on YouTube (in English)</li>
+      <li><a href="https://www.youtube.com/watch?v=SKgqIiapTxg">Who is a Java Developer?</a> - 1k views on YouTube (in Russian)</li>
+      <li><a href="https://www.youtube.com/watch?v=Ib3DCX3oing">IT DevOps Podcast: Master New Age DevOps Practices</a> - 1k views on YouTube (in English)</li>
+      <li><a href="https://www.youtube.com/watch?v=1oaaB1c-oiQ">Coding and System design Tech Interview with Zufar Sunagatov</a> - 9k views onYouTube (in Russian)</li>
     </ul>
 <h3>✍️ I regularly write insightful IT articles, some of my works include:</h3>
     <ul>
-      <li><a href="https://hackernoon.com/building-a-cicd-pipeline-with-aws-k8s-docker-ansible-git-github-apache-maven-and-jenkins">Building a CI/CD Pipeline with various tools</a> - Hackernoon</li>
-      <li><a href="https://hackernoon.com/microservice-architecture-patterns-part-1-decomposition-patterns">Microservice Architecture Patterns</a> - Hackernoon</li>
-      <li><a href="https://skillbox.ru/media/design/variable-prostymi-slovami/">"Что значит «вариативный»?"</a> - Skillbox (in Russian)</li>
+      <li><a href="https://hackernoon.com/building-a-cicd-pipeline-with-aws-k8s-docker-ansible-git-github-apache-maven-and-jenkins">Building a CI/CD Pipeline with various tools</a> - 32k views on Hackernoon</li>
+      <li><a href="https://hackernoon.com/microservice-architecture-patterns-part-1-decomposition-patterns">Microservice Architecture Patterns</a> - 20k views on Hackernoon</li>
+      <li><a href="https://skillbox.ru/media/design/variable-prostymi-slovami/">"Что значит «вариативный»?"</a> - 24k views on Skillbox (in Russian)</li>
     </ul>
 <h3>👨‍🏫 I offer free mentoring sessions on the ADPList platform:</h3>
     <ul>
@@ -40,8 +40,8 @@
 
 <p align="left">
   <a href="https://github.com/Sunagatov">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sunagatov&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="Zufar's GitHub Stats"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sunagatov&theme=vision-friendly-dark" alt="Zufar's GitHub Commit Streak" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Sunagatov&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="Zufar's GitHub Stats"/>
+    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sunagatov&theme=vision-friendly-dark" alt="Zufar's GitHub Commit Streak" />
     <img src="https://github-profile-trophy.vercel.app/?username=Sunagatov&theme=onedark" alt="Zufar's GitHub Trophies" />
   </a>
 </p>
