@@ -3,7 +3,7 @@
 <p><em>Experienced Software Developer at Lloyd's Market </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
-[![GitHub Thaiane](https://img.shields.io/github/followers/Sunagatov?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub Thaiane](https://img.shields.io/github/followers/Sunagatov?label=follow&style=social)](https://github.com/Sunagatov)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
