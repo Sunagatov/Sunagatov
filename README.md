@@ -20,22 +20,23 @@
 </ul>
 
 <h3>🎤 I engage with the community as a speaker:</h3>
-    <ul>
-      <li><a href="https://www.youtube.com/watch?v=K-4h--tTA7E">Web v1.0 vs Web v2.0 vs Web v3.0</a> - 1k views on YouTube (in English)</li>
-      <li><a href="https://www.youtube.com/watch?v=SKgqIiapTxg">Who is a Java Developer?</a> - 1k views on YouTube (in Russian)</li>
-      <li><a href="https://www.youtube.com/watch?v=Ib3DCX3oing">IT DevOps Podcast: Master New Age DevOps Practices</a> - 1k views on YouTube (in English)</li>
-      <li><a href="https://www.youtube.com/watch?v=1oaaB1c-oiQ">Coding and System design Tech Interview with Zufar Sunagatov</a> - 9k views onYouTube (in Russian)</li>
-    </ul>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=K-4h--tTA7E">Web v1.0 vs Web v2.0 vs Web v3.0</a> - 1k views on YouTube (in English)</li>
+  <li><a href="https://www.youtube.com/watch?v=SKgqIiapTxg">Who is a Java Developer?</a> - 1k views on YouTube (in Russian)</li>
+  <li><a href="https://www.youtube.com/watch?v=Ib3DCX3oing">IT DevOps Podcast: Master New Age DevOps Practices</a> - 1k views on YouTube (in English)</li>
+  <li><a href="https://www.youtube.com/watch?v=1oaaB1c-oiQ">Coding and System design Tech Interview with Zufar Sunagatov</a> - 9k views on YouTube (in Russian)</li>
+</ul>
+
 <h3>✍️ I regularly write insightful IT articles, some of my works include:</h3>
-    <ul>
-      <li><a href="https://hackernoon.com/building-a-cicd-pipeline-with-aws-k8s-docker-ansible-git-github-apache-maven-and-jenkins">Building a CI/CD Pipeline with various tools</a> - 32k views on Hackernoon</li>
-      <li><a href="https://hackernoon.com/microservice-architecture-patterns-part-1-decomposition-patterns">Microservice Architecture Patterns</a> - 20k views on Hackernoon</li>
-      <li><a href="https://skillbox.ru/media/design/variable-prostymi-slovami/">"Что значит «вариативный»?"</a> - 24k views on Skillbox (in Russian)</li>
-    </ul>
+<ul>
+  <li><a href="https://hackernoon.com/building-a-cicd-pipeline-with-aws-k8s-docker-ansible-git-github-apache-maven-and-jenkins">Building a CI/CD Pipeline with AWS, K8S, Docker, Ansible, Git, Github, and Jenkins</a> - 32k views on Hackernoon (in English)</li>
+  <li><a href="https://hackernoon.com/microservice-architecture-patterns-part-1-decomposition-patterns">Microservice Architecture Patterns: Decomposition Patterns</a> - 20k views on Hackernoon (in English)</li>
+  <li><a href="https://skillbox.ru/media/design/variable-prostymi-slovami/">"Что значит «вариативный»?"</a> - 24k views on Skillbox (in Russian)</li>
+</ul>
+
 <h3>👨‍🏫 I offer free mentoring sessions on the ADPList platform:</h3>
-    <ul>
-      <li><a href="https://adplist.org/mentors/zufar-sunagatov">Book a session with me</a></li>
-    </ul>
+<ul>
+  <li><a href="https://adplist.org/mentors/zufar-sunagatov">Book a session with me</a></li>
 </ul>
 
 <p align="left">
