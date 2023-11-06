@@ -1,26 +1,48 @@
-<h2> Hi, I'm Zufar Sunagatov!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Experienced Software Developer at Lloyd's Market </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-</em></p>
+<h2> Hi there, I'm Zufar Sunagatov! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" alt="coding gif">
+<p><em>Software Engineer at Lloyd's Market <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30" alt="code gif"></em></p>
 
-[![GitHub Thaiane](https://img.shields.io/github/followers/Sunagatov?label=follow&style=social)](https://github.com/Sunagatov)
+<p>Join my journey in tech:</p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+<p>
+  <a href="https://github.com/Sunagatov">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Sunagatov?label=follow&style=social">
+  </a>
+</p>
 
- * I share my knowledge and expertise on <br/> my Telegram channel ZufarExplainedIT
-   #### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyZL7CFm4cqEZpJihA2aDn8tVZbNSZSGvv1w&usqp=CAU" width="15"> [Follow my Telegram channel ](https://t.me/zufarexplained)
- * I run free mentoring sessions on ADPList platform
-   #### <img  src="https://static.vecteezy.com/system/resources/previews/007/520/551/original/illustrations-of-mentoring-teaching-and-education-as-well-as-presentations-in-meetings-solid-icons-glyphs-silhouettes-free-vector.jpg" width="20"> [Book a new session](https://adplist.org/mentors/zufar-sunagatov)
- * I regularly write IT articles</p>
-   #### <img src="https://www.pngfind.com/pngs/m/92-926881_png-file-article-icon-png-transparent-png.png" width="17"> [Read articles](https://hackernoon.com/u/zufarexplained)
- * I regularly answer questions on various IT topics</p>
-   #### <img src="https://w7.pngwing.com/pngs/651/796/png-transparent-hexagon-media-social-stackoverflow-miu-hexagon-black-social-icon.png" width="17"> [Follow my Stack Oveflow profile](https://stackoverflow.com/users/13515974/zufar-sunagatov?tab=profile)
+<h3>🚀 A little more about me...</h3>
 
+<ul>
+  <li>🔭 I share my knowledge and expertise on my Telegram community <strong>ZufarExplainedIT</strong>:</li>
+  <ul>
+    <h1><a href="https://t.me/zufarexplained">Follow -> ZufarExplainedIT community</a></h1>
+  </ul>
+</ul>
 
+<h3>🎤 I engage with the community as a speaker:</h3>
+    <ul>
+      <li><a href="https://t.me/zufarexplained">Web Evolution Insights</a> - YouTube (in English)</li>
+      <li><a href="https://www.youtube.com/watch?v=SKgqIiapTxg">Who is a Java Developer?</a> - YouTube (in Russian)</li>
+      <li><a href="https://www.youtube.com/watch?v=Ib3DCX3oing">IT DevOps Podcast: Master New Age DevOps Practices</a> - YouTube (in English)</li>
+      <li><a href="https://www.youtube.com/watch?v=1oaaB1c-oiQ">Coding and System design Tech Interview with Zufar Sunagatov</a> - YouTube (in Russian)</li>
+    </ul>
+<h3>✍️ I regularly write insightful IT articles, some of my works include:</h3>
+    <ul>
+      <li><a href="https://hackernoon.com/building-a-cicd-pipeline-with-aws-k8s-docker-ansible-git-github-apache-maven-and-jenkins">Building a CI/CD Pipeline with various tools</a> - Hackernoon</li>
+      <li><a href="https://hackernoon.com/microservice-architecture-patterns-part-1-decomposition-patterns">Microservice Architecture Patterns</a> - Hackernoon</li>
+      <li><a href="https://skillbox.ru/media/design/variable-prostymi-slovami/">"Что значит «вариативный»?"</a> - Skillbox (in Russian)</li>
+    </ul>
+<h3>👨‍🏫 I offer free mentoring sessions on the ADPList platform:</h3>
+    <ul>
+      <li><a href="https://adplist.org/mentors/zufar-sunagatov">Book a session with me</a></li>
+    </ul>
+</ul>
 
 <p align="left">
-<a href="https://github.com/Sunagatov">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sunagatov&layout=compact&langs_count=10&theme=buefy"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sunagatov&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-</a>
+  <a href="https://github.com/Sunagatov">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sunagatov&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="Zufar's GitHub Stats"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sunagatov&theme=vision-friendly-dark" alt="Zufar's GitHub Commit Streak" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Sunagatov&theme=onedark" alt="Zufar's GitHub Trophies" />
+  </a>
 </p>
+
