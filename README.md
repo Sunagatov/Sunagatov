@@ -10,8 +10,8 @@
 
 <h3>🚀 A little more about me...</h3>
 
+<h4 style="color: white;">🔭 I share my knowledge and expertise on my Telegram community:</h4>
 <ul>
-  <li>🔭 I share my knowledge and expertise on my Telegram community <strong>ZufarExplainedIT</strong>:</li>
   <ul>
     <h1><a href="https://t.me/zufarexplained">Follow -> ZufarExplainedIT community</a></h1>
   </ul>
