@@ -39,9 +39,9 @@
 
 <p align="left">
   <a href="https://github.com/Sunagatov">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Sunagatov&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="Zufar's GitHub Stats"/>
-    <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sunagatov&theme=vision-friendly-dark" alt="Zufar's GitHub Commit Streak" />
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunagatov&layout=compact&langs_count=8&theme=vision-friendly-dark" alt="Zufar's Top Languages" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Sunagatov&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="Zufar's GitHub Stats"/>
+    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sunagatov&theme=vision-friendly-dark" alt="Zufar's GitHub Commit Streak" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunagatov&layout=compact&langs_count=8&theme=vision-friendly-dark" alt="Zufar's Top Languages" />
     <img src="https://github-profile-trophy.vercel.app/?username=Sunagatov&theme=onedark" alt="Zufar's GitHub Trophies" />
   </a>
 </p>
