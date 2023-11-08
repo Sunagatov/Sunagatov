@@ -11,7 +11,7 @@
     <img alt="LinkedIn" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
   <!-- Twitter -->
-  <a href="https://twitter.com/[e](https://twitter.com/zufar_sunagatov)">
+  <a href="https://twitter.com/[e](https://twitter.com/zufar_sunagatov">
     <img alt="Twitter" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
   </a>
   <!-- Instagram -->
