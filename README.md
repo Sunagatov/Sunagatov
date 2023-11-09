@@ -43,7 +43,11 @@
 <h4 style="color: white;">🔭 I share my knowledge and expertise on my Telegram community:</h4>
 <ul>
   <ul>
-    <h1><a href="https://t.me/zufarexplained" style="text-decoration: underline;">Join my IT community -> #ZufarExplainedIT</a></h1>
+    <h1>
+      <a href="https://t.me/zufarexplained" style="text-decoration: underline;">
+        Join my IT community -> #ZufarExplainedIT (<strong>1k</strong> followers) 
+      </a>
+    </h1> 
   </ul>
 </ul>
 
