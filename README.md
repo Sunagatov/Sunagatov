@@ -1,36 +1,4 @@
-<h2> Hi there, I'm Zufar Sunagatov! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" alt="coding gif">
-<p><em>Lead Software Developer (Java / Kotlin / Golang) with experience in Backend, Highload, Microservices, Cloud. <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30" alt="code gif"></em></p>
-<p align="left">
-  <!-- Telegram -->
-  <a href="https://t.me/lucky_1uck">
-    <img alt="Telegram" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>
-  </a>
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/zufar-sunagatov">
-    <img alt="LinkedIn" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-  </a>
-  <!-- Twitter -->
-  <a href="https://twitter.com/zufar_sunagatov">
-    <img alt="Twitter" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
-  </a>
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/lucky_1uck">
-    <img alt="Instagram" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
-  </a>
-  <!-- TikTok -->
-  <a href="https://www.tiktok.com/@alice_fitcher">
-    <img alt="TikTok" src="https://img.icons8.com/color/48/000000/tiktok.png"/>
-  </a>
-  <!-- Email -->
-  <a href="mailto:zufar.sunagatov@gmail.com">
-    <img alt="Email" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
-  </a>
-  <!-- Stack Overflow -->
-  <a href="https://stackoverflow.com/users/13515974/zufar-sunagatov?tab=profile">
-    <img alt="Stack Overflow" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
-  </a>
-</p>
+
 
 <p>
   <a href="https://github.com/Sunagatov">
