@@ -47,14 +47,6 @@
   </ul>
 </ul>
 
-<h3><a style="color: white; text-decoration: none;">:) I have my own open source projects:</a></h3>
-<ul>
-  <li><a href="https://github.com/Sunagatov/Iced-Latte">Iced-Latte</a> is a BACKEND of modern online markerplace where you can buy a coffee.</li>
-  <li><a href="https://github.com/Sunagatov/Iced-Latte-Frontend">Iced-Latte-Frontend</a> is a FRONTEND of modern online markerplace where you can buy a coffee.</li>
-  <li><a href="https://github.com/Sunagatov/Iced-Latte-QA">Iced-Latte-QA</a> is a QA project of modern online markerplace where you can buy a coffee.</li>
-
-</ul>
-
 <h3><a style="color: white; text-decoration: none;">🎤 I engage with the community as a speaker:</a></h3>
 <ul>
   <li><a href="https://www.youtube.com/watch?v=K-4h--tTA7E">Web v1.0 vs Web v2.0 vs Web v3.0</a> - <strong>1k</strong> views on YouTube (in English)</li>
@@ -73,6 +65,13 @@
 <h3 style="color: white;">👨‍🏫 I offer free mentoring sessions on the ADPList platform:</h3>
 <ul>
   <li><a href="https://adplist.org/mentors/zufar-sunagatov">Book a session with me</a></li>
+</ul>
+
+<h3><a style="color: white; text-decoration: none;">:) I have my own open source projects:</a></h3>
+<ul>
+  <li><a href="https://github.com/Sunagatov/Iced-Latte">Iced-Latte</a> is a BACKEND of modern online markerplace where you can buy a coffee.</li>
+  <li><a href="https://github.com/Sunagatov/Iced-Latte-Frontend">Iced-Latte-Frontend</a> is a FRONTEND of modern online markerplace where you can buy a coffee.</li>
+  <li><a href="https://github.com/Sunagatov/Iced-Latte-QA">Iced-Latte-QA</a> is a QA project of modern online markerplace where you can buy a coffee.</li>
 </ul>
 
 <p align="left">
