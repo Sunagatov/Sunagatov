@@ -72,6 +72,7 @@
   <li><a href="https://github.com/Sunagatov/Iced-Latte">Iced-Latte</a> is a BACKEND of modern online markerplace where you can buy a coffee.</li>
   <li><a href="https://github.com/Sunagatov/Iced-Latte-Frontend">Iced-Latte-Frontend</a> is a FRONTEND of modern online markerplace where you can buy a coffee.</li>
   <li><a href="https://github.com/Sunagatov/Iced-Latte-QA">Iced-Latte-QA</a> is a QA project of modern online markerplace where you can buy a coffee.</li>
+  <li><a href="https://github.com/Sunagatov/Yulia-Lingo">Yulia-Lingo</a> is your English Learning Telegram Bot.</li>
 </ul>
 
 <p align="left">
