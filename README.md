@@ -75,6 +75,8 @@
   <li><a href="https://github.com/Sunagatov/Yulia-Lingo">Yulia-Lingo</a> is your English Learning Telegram Bot.</li>
 </ul>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sunagatov&label=Profile%20views&color=0e75b6&style=flat" alt="Sunagatov" /> </p>
+
 <p align="left">
   <a href="https://github.com/Sunagatov">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sunagatov&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="Zufar's GitHub Stats"/>
