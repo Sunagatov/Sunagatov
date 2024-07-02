@@ -49,10 +49,10 @@
 
 <h3><a style="color: white; text-decoration: none;">🎤 I engage with the community as a speaker:</a></h3>
 <ul>
+  <li><a href="https://www.youtube.com/watch?v=1oaaB1c-oiQ">Coding and System design Tech Interview with Zufar Sunagatov</a> - <strong>14k+</strong> views on YouTube (in Russian)</li>
+  <li><a href="https://www.youtube.com/watch?v=SKgqIiapTxg">Who is a Java Developer?</a> - <strong>6k+</strong> views on YouTube (in Russian)</li>
+  <li><a href="https://www.youtube.com/watch?v=Ib3DCX3oing">IT DevOps Podcast: Master New Age DevOps Practices</a> - <strong>3k+</strong> views on YouTube (in English)</li>
   <li><a href="https://www.youtube.com/watch?v=K-4h--tTA7E">Web v1.0 vs Web v2.0 vs Web v3.0</a> - <strong>1k</strong> views on YouTube (in English)</li>
-  <li><a href="https://www.youtube.com/watch?v=SKgqIiapTxg">Who is a Java Developer?</a> - <strong>1k</strong> views on YouTube (in Russian)</li>
-  <li><a href="https://www.youtube.com/watch?v=Ib3DCX3oing">IT DevOps Podcast: Master New Age DevOps Practices</a> - <strong>1k</strong> views on YouTube (in English)</li>
-  <li><a href="https://www.youtube.com/watch?v=1oaaB1c-oiQ">Coding and System design Tech Interview with Zufar Sunagatov</a> - <strong>11k</strong> views on YouTube (in Russian)</li>
 </ul>
 
 <h3 style="color: white;">✍️ I regularly write insightful IT articles, some of my works include:</h3>
