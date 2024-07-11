@@ -1,6 +1,13 @@
 <h2> Hi there, I'm Zufar Sunagatov! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" alt="coding gif">
-<p><em>Lead Software Developer (Java / Kotlin / Golang) with experience in Backend, Highload, Microservices, Cloud. <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30" alt="code gif"></em></p>
+<p><em>
+I am an accomplished Professional Software Developer specializing in Java, Kotlin, and Golang, with expertise in Backend, Highload, Microservices, DevOps and Cloud technologies, renowned for his exceptional achievements and impactful contributions in the IT industry.<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30" alt="code gif"></em></p>
+
+<p>
+  <a href="https://github.com/Sunagatov">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Sunagatov?label=follow&style=social" height="25">
+  </a>
+</p>
 <p align="left">
   <!-- Telegram -->
   <a href="https://t.me/lucky_1uck">
@@ -32,12 +39,6 @@
   </a>
 </p>
 
-<p>
-  <a href="https://github.com/Sunagatov">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Sunagatov?label=follow&style=social" height="25">
-  </a>
-</p>
-
 <h3>🚀 A little more about me...</h3>
 
 <h4 style="color: white;">🔭 I share my knowledge and expertise on my Telegram community:</h4>
@@ -45,34 +46,6 @@
   <ul>
     <h1><a href="https://t.me/zufarexplained" style="text-decoration: underline;">Join my IT community -> #ZufarExplainedIT</a></h1>
   </ul>
-</ul>
-
-<h3><a style="color: white; text-decoration: none;">🎤 I engage with the community as a speaker:</a></h3>
-<ul>
-  <li><a href="https://www.youtube.com/watch?v=1oaaB1c-oiQ">Coding and System design Tech Interview with Zufar Sunagatov</a> - <strong>14k+</strong> views on YouTube (in Russian)</li>
-  <li><a href="https://www.youtube.com/watch?v=SKgqIiapTxg">Who is a Java Developer?</a> - <strong>6k+</strong> views on YouTube (in Russian)</li>
-  <li><a href="https://www.youtube.com/watch?v=Ib3DCX3oing">IT DevOps Podcast: Master New Age DevOps Practices</a> - <strong>3k+</strong> views on YouTube (in English)</li>
-  <li><a href="https://www.youtube.com/watch?v=K-4h--tTA7E">Web v1.0 vs Web v2.0 vs Web v3.0</a> - <strong>1k</strong> views on YouTube (in English)</li>
-</ul>
-
-<h3 style="color: white;">✍️ I regularly write insightful IT articles, some of my works include:</h3>
-<ul>
-  <li><a href="https://hackernoon.com/building-a-cicd-pipeline-with-aws-k8s-docker-ansible-git-github-apache-maven-and-jenkins">Building a CI/CD Pipeline with AWS, K8S, Docker, Ansible, Git, Github, and Jenkins</a> - <strong>37k</strong> views on Hackernoon (in English)</li>
-  <li><a href="https://hackernoon.com/microservice-architecture-patterns-part-1-decomposition-patterns">Microservice Architecture Patterns: Decomposition Patterns</a> - <strong>21k</strong> views on Hackernoon (in English)</li>
-  <li><a href="https://skillbox.ru/media/design/variable-prostymi-slovami/">"Что значит «вариативный»?"</a> - <strong>24k</strong> views on Skillbox (in Russian)</li>
-</ul>
-
-<h3 style="color: white;">👨‍🏫 I offer free mentoring sessions on the ADPList platform:</h3>
-<ul>
-  <li><a href="https://adplist.org/mentors/zufar-sunagatov">Book a session with me</a></li>
-</ul>
-
-<h3><a style="color: white; text-decoration: none;">:) I have my own open source projects:</a></h3>
-<ul>
-  <li><a href="https://github.com/Sunagatov/Iced-Latte">Iced-Latte</a> is a BACKEND of modern online markerplace where you can buy a coffee.</li>
-  <li><a href="https://github.com/Sunagatov/Iced-Latte-Frontend">Iced-Latte-Frontend</a> is a FRONTEND of modern online markerplace where you can buy a coffee.</li>
-  <li><a href="https://github.com/Sunagatov/Iced-Latte-QA">Iced-Latte-QA</a> is a QA project of modern online markerplace where you can buy a coffee.</li>
-  <li><a href="https://github.com/Sunagatov/Yulia-Lingo">Yulia-Lingo</a> is your English Learning Telegram Bot.</li>
 </ul>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sunagatov&label=Profile%20views&color=0e75b6&style=flat" alt="Sunagatov" /> </p>
