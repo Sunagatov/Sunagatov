@@ -1,7 +1,11 @@
 <h2> Hi there, I'm Zufar Sunagatov! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" alt="coding gif">
 <p><em>
-I am an accomplished Professional Software Developer specializing in Java, Kotlin, and Golang, with expertise in Backend, Highload, Microservices, DevOps and Cloud technologies, renowned for his exceptional achievements and impactful contributions in the IT industry.<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30" alt="code gif"></em></p>
+I am a Senior Software Developer with 6+ years in the tech industry.
+
+I have a successful track record of building high-performance distributed systems for some of the world’s largest companies, like Citi Bank, Lloyds Market, MTS, and Russian Railways.
+
+Over the past three years, I have been sharing my leading expertise via award-winning articles, participating in expert panels, mentoring, teaching, giving tech talks, and successfully growing tech communities.<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30" alt="code gif"></em></p>
 
 <p>
   <a href="https://github.com/Sunagatov">
