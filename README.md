@@ -1,7 +1,7 @@
 <h2> Hi there, I'm Zufar Sunagatov! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" alt="coding gif">
 <p><em>
-I am a Senior Software Developer with 6+ years in the tech industry.
+I am a Senior Software Developer with 7+ years in the tech industry.
 
 I have a successful track record of building high-performance distributed systems for some of the world’s largest companies, like Citi Bank, Lloyds Market, MTS, and Russian Railways.
 
