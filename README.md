@@ -116,6 +116,29 @@
 
 ---
 
+<h3>👨🏫 Mentoring</h3>
+
+<ul>
+  <li>🥇 <strong>Top 1% Global Mentor</strong> on <a href="https://adplist.org/mentors/zufar-sunagatov">ADPList</a> — 135+ sessions, mentees from 19 countries</li>
+  <li>Industry Mentor at <strong>City, University of London</strong> (<a href="https://drive.google.com/file/d/1BVdX7Waorg8aTbeNKh0TnnCNApq1RT5t/view?usp=sharing">certificate</a>)</li>
+  <li>Mentor at <strong>Women In Tech</strong> (<a href="https://drive.google.com/file/d/107pJ6QrlxzhbH86k3N1hzOSOEtlFQRYT/view?usp=sharing">certificate</a>)</li>
+</ul>
+
+---
+
+<h3>✍️ Technical Writing</h3>
+
+<ul>
+  <li><a href="https://hackernoon.com/building-a-cicd-pipeline-with-aws-k8s-docker-ansible-git-github-apache-maven-and-jenkins">Building a CI/CD Pipeline with AWS, K8S, Docker, Ansible, Git, Github, and Jenkins</a> — <strong>42k</strong> views · 🥇 <strong>1st place, HackerNoon DevOps Writing Contest</strong></li>
+  <li><a href="https://hackernoon.com/microservice-architecture-patterns-part-1-decomposition-patterns">Microservice Architecture Patterns: Decomposition Patterns</a> — <strong>31k</strong> views on HackerNoon</li>
+  <li><a href="https://skillbox.ru/media/design/variable-prostymi-slovami/">"Что значит «вариативный»?"</a> — <strong>24k</strong> views on Skillbox (Russian)</li>
+</ul>
+
+---
+
+
+
+
 <h3>🔭 Community & Knowledge Sharing</h3>
 
 <h4 style="color: white;">Telegram Tech Community — <a href="https://t.me/zufarexplained">#ZufarExplainedIT</a></h4>
@@ -132,26 +155,6 @@
   <li><a href="https://www.youtube.com/watch?v=SKgqIiapTxg">Who is a Java Developer?</a> — <strong>7k+</strong> views (Russian)</li>
   <li><a href="https://www.youtube.com/watch?v=Ib3DCX3oing">IT DevOps Podcast: Master New Age DevOps Practices</a> — <strong>3k+</strong> views (English)</li>
   <li><a href="https://www.youtube.com/watch?v=K-4h--tTA7E">Web v1.0 vs Web v2.0 vs Web v3.0</a> — <strong>1k+</strong> views (English)</li>
-</ul>
-
----
-
-<h3>✍️ Technical Writing</h3>
-
-<ul>
-  <li><a href="https://hackernoon.com/building-a-cicd-pipeline-with-aws-k8s-docker-ansible-git-github-apache-maven-and-jenkins">Building a CI/CD Pipeline with AWS, K8S, Docker, Ansible, Git, Github, and Jenkins</a> — <strong>42k</strong> views · 🥇 <strong>1st place, HackerNoon DevOps Writing Contest</strong></li>
-  <li><a href="https://hackernoon.com/microservice-architecture-patterns-part-1-decomposition-patterns">Microservice Architecture Patterns: Decomposition Patterns</a> — <strong>31k</strong> views on HackerNoon</li>
-  <li><a href="https://skillbox.ru/media/design/variable-prostymi-slovami/">"Что значит «вариативный»?"</a> — <strong>24k</strong> views on Skillbox (Russian)</li>
-</ul>
-
----
-
-<h3>👨🏫 Mentoring</h3>
-
-<ul>
-  <li>🥇 <strong>Top 1% Global Mentor</strong> on <a href="https://adplist.org/mentors/zufar-sunagatov">ADPList</a> — 135+ sessions, mentees from 19 countries</li>
-  <li>Industry Mentor at <strong>City, University of London</strong> (<a href="https://drive.google.com/file/d/1BVdX7Waorg8aTbeNKh0TnnCNApq1RT5t/view?usp=sharing">certificate</a>)</li>
-  <li>Mentor at <strong>Women In Tech</strong> (<a href="https://drive.google.com/file/d/107pJ6QrlxzhbH86k3N1hzOSOEtlFQRYT/view?usp=sharing">certificate</a>)</li>
 </ul>
 
 ---
