@@ -72,7 +72,7 @@
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
   <img src="https://img.shields.io/badge/LLMs%20%2F%20GenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
   </li>
-  <br/>
+
   <li>
   <p style="margin:0"><strong><a href="https://github.com/Sunagatov/Iced-Latte-Frontend">Iced-Latte-Frontend</a> — 207⭐</strong></p>
   Frontend of the Iced-Latte marketplace.<br/>
@@ -80,7 +80,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   </li>
-  <br/>
+
   <li>
   <p style="margin:0"><strong><a href="https://github.com/Sunagatov/Yulia-Lingo">Yulia-Lingo</a> — 114⭐</strong></p>
   English Learning Telegram Bot.<br/>
@@ -89,7 +89,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   </li>
-  <br/>
+
   <li>
   <p style="margin:0"><strong><a href="https://github.com/Sunagatov/TIMETABLE.IS">TIMETABLE.IS</a> — 132⭐</strong></p>
   Python Telegram bot for timetable management. Demonstrates Python async bot architecture at scale.<br/>
@@ -99,7 +99,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   </li>
-  <br/>
+
   <li>
   <p style="margin:0"><strong><a href="https://github.com/Sunagatov/URL-Shortener">URL-Shortener</a></strong></p>
   High-performance URL shortening service built with <strong>Kotlin coroutines</strong> and async non-blocking I/O. Clean microservice design.<br/>
