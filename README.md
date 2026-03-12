@@ -58,10 +58,14 @@
 
 <ul>
   <li>
-  <p style="margin:0"><strong>⭐ <a href="https://github.com/Sunagatov/Iced-Latte">Iced-Latte</a> — 627⭐</strong></p>
-  Open-source coffee marketplace backend with <strong>70+ contributors</strong>. Features GenAI agents for automated code reviews, content moderation, and LLM-driven sentiment analysis. (<a href="https://drive.google.com/file/d/1J7bs69RvkXGlALBrdOBX63DxEQQ5dg5k/view?usp=sharing">technical overview</a>)<br/>
+  <p style="margin:0"><strong>⭐ <a href="https://github.com/Sunagatov/Iced-Latte">Iced-Latte-Backend</a> (627⭐) · 🌐 <a href="https://www.iced-latte.uk/">https://www.iced-latte.uk/</a></strong></p>
+  <p style="margin:0"><strong><a href="https://github.com/Sunagatov/Iced-Latte-Frontend">Iced-Latte-Frontend</a> (207⭐)</strong></p>
+  Open-source coffee marketplace with <strong>70+ contributors</strong>. Features GenAI agents for automated code reviews, content moderation, and LLM-driven sentiment analysis. (<a href="https://drive.google.com/file/d/1J7bs69RvkXGlALBrdOBX63DxEQQ5dg5k/view?usp=sharing">technical overview</a>)<br/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
@@ -74,19 +78,20 @@
   </li>
 
   <li>
-  <p style="margin:0"><strong><a href="https://github.com/Sunagatov/Iced-Latte-Frontend">Iced-Latte-Frontend</a> — 207⭐</strong></p>
-  Frontend of the Iced-Latte marketplace.<br/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  </li>
-
-  <li>
   <p style="margin:0"><strong><a href="https://github.com/Sunagatov/Yulia-Lingo">Yulia-Lingo</a> — 114⭐</strong></p>
   English Learning Telegram Bot.<br/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  </li>
+
+  <li>
+  <p style="margin:0"><strong><a href="https://github.com/Sunagatov/Festiva">Festiva</a> — 30⭐ · 🌐 <a href="https://t.me/festiva_birthday_bot">@festiva_birthday_bot</a></strong></p>
+  Java-based Telegram bot that helps users manage and receive reminders about birthdays.<br/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   </li>
 
