@@ -58,9 +58,11 @@
 
 <ul>
   <li>
-  <p style="margin:0"><strong>⭐ <a href="https://github.com/Sunagatov/Iced-Latte">Iced-Latte-Backend</a> (627⭐)</strong></p>
-  <p style="margin:0"><strong><a href="https://github.com/Sunagatov/Iced-Latte-Frontend">Iced-Latte-Frontend</a> (207⭐)</strong></p>
-  <p style="margin:0">🚀 <a href="https://www.iced-latte.uk/"><strong>Live Demo</strong></a> · 🔗 <a href="https://api.iced-latte.uk/"><strong>API</strong></a></p>
+  <p style="margin:0"><strong>⭐ Iced-Latte</strong> · 🚀 <a href="https://www.iced-latte.uk/"><strong>Live Demo</strong></a></p>
+  <p style="margin:0">
+    🔗 <a href="https://github.com/Sunagatov/Iced-Latte"><strong>GitHub Backend</strong></a> · <img src="https://img.shields.io/github/stars/Sunagatov/Iced-Latte?style=flat" alt="Stars"/><br/>
+    🔗 <a href="https://github.com/Sunagatov/Iced-Latte-Frontend"><strong>GitHub Frontend</strong></a> · <img src="https://img.shields.io/github/stars/Sunagatov/Iced-Latte-Frontend?style=flat" alt="Stars"/>
+  </p>
   Open-source coffee marketplace with <strong>70+ contributors</strong>. Features GenAI agents for automated code reviews, content moderation, and LLM-driven sentiment analysis. (<a href="https://drive.google.com/file/d/1J7bs69RvkXGlALBrdOBX63DxEQQ5dg5k/view?usp=sharing">technical overview</a>)<br/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
@@ -79,8 +81,7 @@
   </li>
 
   <li>
-  <p style="margin:0"><strong><a href="https://github.com/Sunagatov/Yulia-Lingo">Yulia-Lingo</a> — 114⭐</strong></p>
-  <p style="margin:0">🤖 <a href="https://t.me/yulia_lingo_bot"><strong>Try Bot</strong></a></p>
+  <p style="margin:0"><strong>Yulia-Lingo</strong> · <img src="https://img.shields.io/github/stars/Sunagatov/Yulia-Lingo?style=flat" alt="Stars"/> · 🔗 <a href="https://github.com/Sunagatov/Yulia-Lingo"><strong>GitHub</strong></a> · 🤖 <a href="https://t.me/yulia_lingo_bot"><strong>Try Bot</strong></a></p>
   English Learning Telegram Bot.<br/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
@@ -89,8 +90,7 @@
   </li>
 
   <li>
-  <p style="margin:0"><strong><a href="https://github.com/Sunagatov/Festiva">Festiva</a> — 30⭐</strong></p>
-  <p style="margin:0">🤖 <a href="https://t.me/festiva_birthday_bot"><strong>Try Bot</strong></a></p>
+  <p style="margin:0"><strong>Festiva</strong> · <img src="https://img.shields.io/github/stars/Sunagatov/Festiva?style=flat" alt="Stars"/> · 🔗 <a href="https://github.com/Sunagatov/Festiva"><strong>GitHub</strong></a> · 🤖 <a href="https://t.me/festiva_birthday_bot"><strong>Try Bot</strong></a></p>
   Java-based Telegram bot that helps users manage and receive reminders about birthdays.<br/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
@@ -99,8 +99,7 @@
   </li>
 
   <li>
-  <p style="margin:0"><strong><a href="https://github.com/Sunagatov/TIMETABLE.IS">TIMETABLE.IS</a> — 132⭐</strong></p>
-  <p style="margin:0">🤖 <a href="https://t.me/timetable_is_bot"><strong>Try Bot</strong></a></p>
+  <p style="margin:0"><strong>TIMETABLE.IS</strong> · <img src="https://img.shields.io/github/stars/Sunagatov/TIMETABLE.IS?style=flat" alt="Stars"/> · 🔗 <a href="https://github.com/Sunagatov/TIMETABLE.IS"><strong>GitHub</strong></a> · 🤖 <a href="https://t.me/ZUFAR_TIME_IS_BOT"><strong>Try Bot</strong></a></p>
   Python Telegram bot for worldwide time zones. Get current time for any city and compare time differences across continents.<br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Asyncio-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -110,8 +109,7 @@
   </li>
 
   <li>
-  <p style="margin:0"><strong><a href="https://github.com/Sunagatov/URL-Shortener">URL-Shortener</a></strong></p>
-  <p style="margin:0">🚀 <a href="http://116.203.197.65/"><strong>Live Demo</strong></a></p>
+  <p style="margin:0"><strong>URL-Shortener</strong> · <img src="https://img.shields.io/github/stars/Sunagatov/URL-Shortener?style=flat" alt="Stars"/> · 🔗 <a href="https://github.com/Sunagatov/URL-Shortener"><strong>GitHub</strong></a> · 🚀 <a href="http://116.203.197.65/"><strong>Live Demo</strong></a></p>
   High-performance URL shortening service built with <strong>Kotlin coroutines</strong> and async non-blocking I/O. Clean microservice design.<br/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
