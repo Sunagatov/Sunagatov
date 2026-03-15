@@ -109,12 +109,18 @@
   </li>
 
   <li>
-  <p style="margin:0"><strong>URL-Shortener</strong> · <img src="https://img.shields.io/github/stars/Sunagatov/URL-Shortener?style=flat" alt="Stars"/> · 🔗 <a href="https://github.com/Sunagatov/URL-Shortener"><strong>GitHub</strong></a> · 🚀 <a href="http://116.203.197.65/"><strong>Live Demo</strong></a></p>
-  High-performance URL shortening service built with <strong>Kotlin coroutines</strong> and async non-blocking I/O. Clean microservice design.<br/>
+  <p style="margin:0"><strong>⭐ URL-Shortener</strong> · 🚀 <a href="http://116.203.197.65/"><strong>Live Demo</strong></a></p>
+  <p style="margin:0">
+    🔗 <a href="https://github.com/Sunagatov/URL-Shortener"><strong>GitHub Backend</strong></a> · <img src="https://img.shields.io/github/stars/Sunagatov/URL-Shortener?style=flat" alt="Stars"/><br/>
+    🔗 <a href="https://github.com/Sunagatov/Shorty-URL-Frontend"><strong>GitHub Frontend</strong></a> · <img src="https://img.shields.io/github/stars/Sunagatov/Shorty-URL-Frontend?style=flat" alt="Stars"/>
+  </p>
+  High-performance URL shortening service with JWT authentication, caching, and rate limiting. Backend built with Kotlin + Spring Boot, frontend with React + TypeScript.<br/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Caffeine-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white"/>
   </li>
