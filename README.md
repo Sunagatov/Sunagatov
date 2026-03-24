@@ -46,7 +46,7 @@
 <ul style="line-height:2">
   <li>🇬🇧 <a href="https://www.linkedin.com/posts/zufar-sunagatov_java-kotlin-backend-activity-7376228308562292736-_B82/"><strong style="font-size:1.1em">UK Global Talent</strong></a> — formally endorsed by Tech Nation / UK Government for exceptional contributions to the digital technology sector</li>
   <li>🥇 <a href="https://drive.google.com/file/d/1mDOC2bG56DnVqMrn-ecNotkC-4wTL0co/view?usp=sharing"><strong style="font-size:1.1em">Top 1% Global Mentor</strong></a> on ADPList — 135+ sessions across mentees from 19 countries</li>
-  <li>📝 <strong style="font-size:1.1em">Winner of the global DevOps Writing Contest</strong> on HackerNoon — $2,000 prize, 1st place</li>
+  <li>📝 <a href="https://drive.google.com/file/d/1VuJsmTO2dgRXEVnf_uphZ9Kkz0q-Q_BK/view?usp=sharing"><strong style="font-size:1.1em">Winner of the global DevOps Writing Contest</strong> on HackerNoon — $2,000 prize, 1st place</li>
   <li>🏅 <a href="https://drive.google.com/file/d/1Fv5gcJL5Vv8YQd50Irr-n5I9PPBRF_ur/view?usp=sharing"><strong style="font-size:1.1em">Top 2% Stack Overflow contributor</strong></a> (2023)</li>
   <li>⚖️ <a href="https://drive.google.com/file/d/1-Dl7VE6eSl0lImziBnflDO1nLg6WMuAf/view?usp=sharing"><strong style="font-size:1.1em">Expert Jury Member</strong></a> at international hackathons KaiCode (Huawei) & Urbaton — evaluated 400+ repositories alongside engineers from Sber and Yandex</li>
   <li>🎓 <strong style="font-size:1.1em">MSc Applied Mathematics & Informatics</strong>, Samara University — GPA 5.0/5.0, with Honors</li>
