@@ -8,7 +8,7 @@
 </em></p>
 
 <p align="left">
-  <a href="https://t.me/lucky_1uck"><img alt="Telegram" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/></a>
+  <a href="https://web.telegram.org/k/#@lucky_1uck"><img alt="Telegram" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/></a>
   <a href="https://www.linkedin.com/in/zufar-sunagatov"><img alt="LinkedIn" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   <a href="https://twitter.com/zufar_sunagatov"><img alt="Twitter" src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
   <a href="https://www.instagram.com/lucky_1uck"><img alt="Instagram" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
@@ -81,7 +81,7 @@
   </li>
 
   <li>
-  <p style="margin:0"><strong>Yulia-Lingo</strong> · <img src="https://img.shields.io/github/stars/Sunagatov/Yulia-Lingo?style=flat" alt="Stars"/> · 🔗 <a href="https://github.com/Sunagatov/Yulia-Lingo"><strong>GitHub</strong></a> · 🤖 <a href="https://t.me/yulia_lingo_bot"><strong>Try Bot</strong></a></p>
+  <p style="margin:0"><strong>Yulia-Lingo</strong> · <img src="https://img.shields.io/github/stars/Sunagatov/Yulia-Lingo?style=flat" alt="Stars"/> · 🔗 <a href="https://github.com/Sunagatov/Yulia-Lingo"><strong>GitHub</strong></a> · 🤖 <a href="https://web.telegram.org/k/#@yulia_lingo_bot"><strong>Try Bot</strong></a></p>
   English Learning Telegram Bot.<br/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
@@ -90,7 +90,7 @@
   </li>
 
   <li>
-  <p style="margin:0"><strong>Festiva</strong> · <img src="https://img.shields.io/github/stars/Sunagatov/Festiva?style=flat" alt="Stars"/> · 🔗 <a href="https://github.com/Sunagatov/Festiva"><strong>GitHub</strong></a> · 🤖 <a href="https://t.me/festiva_birthday_bot"><strong>Try Bot</strong></a></p>
+  <p style="margin:0"><strong>Festiva</strong> · <img src="https://img.shields.io/github/stars/Sunagatov/Festiva?style=flat" alt="Stars"/> · 🔗 <a href="https://github.com/Sunagatov/Festiva"><strong>GitHub</strong></a> · 🤖 <a href="https://web.telegram.org/k/#@festiva_birthday_bot"><strong>Try Bot</strong></a></p>
   Java-based Telegram bot that helps users manage and receive reminders about birthdays.<br/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
@@ -99,7 +99,7 @@
   </li>
 
   <li>
-  <p style="margin:0"><strong>TIMETABLE.IS</strong> · <img src="https://img.shields.io/github/stars/Sunagatov/TIMETABLE.IS?style=flat" alt="Stars"/> · 🔗 <a href="https://github.com/Sunagatov/TIMETABLE.IS"><strong>GitHub</strong></a> · 🤖 <a href="https://t.me/ZUFAR_TIME_IS_BOT"><strong>Try Bot</strong></a></p>
+  <p style="margin:0"><strong>TIMETABLE.IS</strong> · <img src="https://img.shields.io/github/stars/Sunagatov/TIMETABLE.IS?style=flat" alt="Stars"/> · 🔗 <a href="https://github.com/Sunagatov/TIMETABLE.IS"><strong>GitHub</strong></a> · 🤖 <a href="https://web.telegram.org/k/#@ZUFAR_TIME_IS_BOT"><strong>Try Bot</strong></a></p>
   Python Telegram bot for worldwide time zones. Get current time for any city and compare time differences across continents.<br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Asyncio-3776AB?style=flat-square&logo=python&logoColor=white"/>
