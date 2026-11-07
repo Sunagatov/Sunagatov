@@ -21,6 +21,9 @@
   <a href="https://github.com/Sunagatov">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Sunagatov?label=follow&style=social" height="25">
   </a>
+  <a href="https://buymeacoffee.com/lucky_1uck">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" width="220" height="62">
+  </a>
 </p>
 
 ---
@@ -127,6 +130,18 @@
 </ul>
 
 <p><em>Also worked with: Terraform · Helm · Prometheus · Grafana · OpenTelemetry · Jaeger · gRPC · GraphQL · DynamoDB · Apache Hive · AWS SQS/SNS · RabbitMQ · Spring WebFlux · Testcontainers · RAG Pipelines · Prompt Engineering</em></p>
+
+---
+
+<h3>☕ Support my open-source projects</h3>
+
+<p>If you enjoy my projects, you can help support their development.</p>
+
+<p>
+  <a href="https://buymeacoffee.com/lucky_1uck">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" width="220" height="62">
+  </a>
+</p>
 
 ---
 
